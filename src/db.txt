@@ -1,0 +1,37 @@
+ALBUMS
+album_id
+artist_id
+name
+description
+album_art
+purchases <- included as caching
+price <- included as caching
+genre
+deadline
+date_added
+
+DEADLINES
+id
+album_id
+no_of_downloads
+price
+
+SONGS
+song_id
+album_id
+song_name
+preview_url
+track_url
+
+PURCHASES
+transaction_id
+album_id
+price_paid
+purchase_date
+purchase_email
+
+ARTIST
+artist_id
+name
+email_address
+balance
