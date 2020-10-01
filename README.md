@@ -1,4 +1,4 @@
-Music Site
+sites to enjoy free music
 ==========
 
 A crowd-funding website for digital music.
