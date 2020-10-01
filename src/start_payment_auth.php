@@ -8,6 +8,8 @@ define('CURRENCY','USD');
 //$r = new PayPal(true);
 
 //Use this form for sandbox tests
+//New Mode Of Payment 
+//Online Transactions
 $r = new PayPal();
 
 if(isset($_GET['id'])) {
